@@ -1,5 +1,5 @@
 //jshint esversion:6
-const author = "Abi from Create Sense";
+const author = "Eunice and Abi from Create Sense";
 let date = new Date();
 let index = 0;
 let list = [{
